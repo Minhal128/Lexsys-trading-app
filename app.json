@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Lexsys",
+    "slug": "lexsys",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/lexsys.jpeg",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/lexsys.jpeg",
+      "resizeMode": "contain",
+      "backgroundColor": "#1A1D2E"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/lexsys.jpeg",
+        "backgroundColor": "#1A1D2E"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.minhal.rizvi.lexsys"
+    },
+    "web": {
+      "favicon": "./assets/lexsys.jpeg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1eb86cfd-8092-40cb-8a46-f145e2f9e4bb"
+      }
+    }
+  }
+}
